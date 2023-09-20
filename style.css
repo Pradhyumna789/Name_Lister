@@ -45,3 +45,8 @@ button:hover {
     background-color: rgba(127, 255, 212, 0.785);
     cursor: pointer;
 }
+
+.tag:hover {
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
